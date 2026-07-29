@@ -1,3 +1,13 @@
 <div align="center">
-<img src="assets/header.png" width="100%" alt="akuvent — Devoting my youth to the eight gates of code." /><img src="assets/skills.png" width="100%" alt="Skills: GDScript, Python, C#." /><a href="https://github.com/Akuvent"><img src="assets/github.png" width="25%" alt="GitHub" /></a><a href="https://www.youtube.com/@CocazEtSeloz"><img src="assets/youtube.png" width="25%" alt="YouTube" /></a><a href="https://discord.com/invite/ThCfqbr5Nw"><img src="assets/discord.png" width="25%" alt="Discord" /></a><a href="https://steamcommunity.com/profiles/76561199229132682/"><img src="assets/steam.png" width="25%" alt="Steam" /></a><a href="https://github.com/Akuvent/platformer_training"><img src="assets/working.png" width="100%" alt="platformer_training" /></a><img src="assets/footer.png" width="100%" alt="Thanks for stopping by — feel free to look around." />
+<img src="assets/profile.png" width="100%" alt="akuvent — Devoting my youth to the eight gates of code. Skills: GDScript, Python, C#. Currently around platformer_training." />
 </div>
+
+<p align="center">
+<a href="https://www.youtube.com/@CocazEtSeloz">YouTube</a>
+&nbsp;·&nbsp;
+<a href="https://discord.com/invite/ThCfqbr5Nw">Discord</a>
+&nbsp;·&nbsp;
+<a href="https://steamcommunity.com/profiles/76561199229132682/">Steam</a>
+&nbsp;·&nbsp;
+<a href="https://github.com/Akuvent/platformer_training">platformer_training</a>
+</p>
