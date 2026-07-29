@@ -1,16 +1,13 @@
-## Hi there 👋
+# akuvent
 
-<!--
-**Akuvent/Akuvent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Devoting my youth to the eight gates of code.
 
-Here are some ideas to get you started:
+![header](assets/header.png)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![skills](assets/skills.png)
+
+[![GitHub](assets/github.png)](https://github.com/Akuvent)[![YouTube](assets/youtube.png)](https://www.youtube.com/@CocazEtSeloz)[![Discord](assets/discord.png)](https://discord.com/invite/ThCfqbr5Nw)[![Steam](assets/steam.png)](https://steamcommunity.com/profiles/76561199229132682/)
+
+[![platformer_training](assets/working.png)](https://github.com/Akuvent/platformer_training)
+
+![footer](assets/footer.png)
