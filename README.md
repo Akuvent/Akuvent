@@ -1,3 +1,7 @@
-<div align="center">
-<img src="assets/01_header.png" width="100%" alt="akuvent — Devoting my youth to the eight gates of code." /><img src="assets/02_skills.png" width="100%" alt="Skills: GDScript, Python, C#." /><a href="https://www.youtube.com/@CocazEtSeloz"><img src="assets/03a_youtube.png" width="33%" alt="YouTube" align="top" /></a><a href="https://discord.com/invite/ThCfqbr5Nw"><img src="assets/03b_discord.png" width="34%" alt="Discord" align="top" /></a><a href="https://steamcommunity.com/profiles/76561199229132682/"><img src="assets/03c_steam.png" width="33%" alt="Steam" align="top" /></a><a href="https://github.com/Akuvent/platformer_training"><img src="assets/04_working.png" width="100%" alt="platformer_training" /></a><img src="assets/05_footer.png" width="100%" alt="thanks for stopping by — feel free to look around" />
-</div>
+<img src="https://raw.githubusercontent.com/Akuvent/Akuvent/main/assets/01_header.png" alt="akuvent — Devoting my youth to the eight gates of code." width="100%" align="top">
+<img src="https://raw.githubusercontent.com/Akuvent/Akuvent/main/assets/02_skills.png" alt="Skills: GDScript, Python, C#." width="100%" align="top">
+<nobr>
+<a href="https://www.youtube.com/@CocazEtSeloz"><img src="https://raw.githubusercontent.com/Akuvent/Akuvent/main/assets/03a_youtube.png" alt="YouTube" width="33%" align="top"></a><a href="https://discord.com/invite/ThCfqbr5Nw"><img src="https://raw.githubusercontent.com/Akuvent/Akuvent/main/assets/03b_discord.png" alt="Discord" width="34%" align="top"></a><a href="https://steamcommunity.com/profiles/76561199229132682/"><img src="https://raw.githubusercontent.com/Akuvent/Akuvent/main/assets/03c_steam.png" alt="Steam" width="33%" align="top"></a>
+</nobr>
+<a href="https://github.com/Akuvent/platformer_training"><img src="https://raw.githubusercontent.com/Akuvent/Akuvent/main/assets/04_working.png" alt="platformer_training" width="100%" align="top"></a>
+<img src="https://raw.githubusercontent.com/Akuvent/Akuvent/main/assets/05_footer.png" width="100%" alt="thanks for stopping by — feel free to look around" align="top">
