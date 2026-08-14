@@ -4,9 +4,9 @@
 
 # akuvent
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=C4A4A4&center=true&vCenter=true&width=760&lines=Godot+games+I+can+actually+play;Parry+%C2%B7+heat+%C2%B7+speed+%C2%B7+combat+juice;Training+projects+I+finish+and+archive;First+real+game+is+about+speed+and+timing)](https://github.com/Akuvent)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=C4A4A4&center=true&vCenter=true&width=760&lines=Godot+games+I+would+actually+play;Parry+%C2%B7+heat+%C2%B7+speed+%C2%B7+combat+juice;Kewl+training+projects+I+archive;First+real+game+soon!)](https://github.com/Akuvent)
 
-**Godot 2D games · Parry and timing · Combat juice · Training archives**
+**Godot 2D games · Games made with passion · Combat juice · Training archives**
 
 [![YouTube](https://img.shields.io/badge/YouTube-Cliffwake-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Cliffwaketeam)
 [![Instagram](https://img.shields.io/badge/Instagram-cliffwake.team-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cliffwake.team/)
@@ -23,14 +23,14 @@
 
 ## About
 
-I make video games. I have been playing them since I was a kid and that is still the whole job I want.
+I make video games. I have been playing them since I was a kid and that is still the career I want.
 
-I ship small Godot projects in public under **akuvent** and put the public-facing stuff under **Cliffwake**. Right now that means 2D movement, combat feel, and systems I can test in-engine: parry, heat, knockback, checkpoints, stomps.
+I ship small Godot projects in public under **@akuvent** and put the public-facing stuff under **@Cliffwake**.
 
 - Based in France
 - Working mostly in GDScript on Godot 4, with Python, C#, HTML, and CSS when a project needs it
 - Next up: FiveM resource work (Cfx.re, NUI)
-- Training until the first real game is something I would play for the speed and the timing, not for the checklist
+- Training until the first real game is something I would play for the speed and the timing, not just because I made it
 
 ---
 
@@ -39,8 +39,8 @@ I ship small Godot projects in public under **akuvent** and put the public-facin
 | Area | What I am building |
 |---|---|
 | **Training** | Closing small Godot games so movement, combat, and level flow stick |
-| **First game** | A game built around speed and timing, not a menu of systems |
-| **Feel** | Combat juice, knockback, parry windows, heat, camera punch, SFX that fire on the event |
+| **First game** | A game built around speed and timing, not a pletora of systems |
+| **Feel** | Combat juice, knockback, parry windows, heat, camera punch, SFX that fires on hit |
 
 ---
 
