@@ -4,9 +4,9 @@
 
 # akuvent
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=C4A4A4&center=true&vCenter=true&width=760&lines=Godot+games+I+can+actually+play;Parry+%C2%B7+heat+%C2%B7+hitboxes+%C2%B7+knockback;Training+projects+I+finish+and+archive;First+real+game+is+about+speed+and+timing)](https://github.com/Akuvent)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=C4A4A4&center=true&vCenter=true&width=760&lines=Godot+games+I+can+actually+play;Parry+%C2%B7+heat+%C2%B7+speed+%C2%B7+combat+juice;Training+projects+I+finish+and+archive;First+real+game+is+about+speed+and+timing)](https://github.com/Akuvent)
 
-**Godot 2D games · Parry and timing · Hitbox labs · Training archives**
+**Godot 2D games · Parry and timing · Combat juice · Training archives**
 
 [![YouTube](https://img.shields.io/badge/YouTube-Cliffwake-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Cliffwaketeam)
 [![Instagram](https://img.shields.io/badge/Instagram-cliffwake.team-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cliffwake.team/)
@@ -25,10 +25,10 @@
 
 I make video games. I have been playing them since I was a kid and that is still the whole job I want.
 
-I ship small Godot projects in public under **akuvent** and put the public-facing stuff under **Cliffwake**. Right now that means 2D movement, combat feel, and systems I can test in-engine: parry, heat, hitboxes, knockback, checkpoints, stomps.
+I ship small Godot projects in public under **akuvent** and put the public-facing stuff under **Cliffwake**. Right now that means 2D movement, combat feel, and systems I can test in-engine: parry, heat, knockback, checkpoints, stomps.
 
 - Based in France
-- Working mostly in GDScript on Godot 4, with Python, C#, HTML, and CSS when the project needs it
+- Working mostly in GDScript on Godot 4, with Python, C#, HTML, and CSS when a project needs it
 - Next up: FiveM resource work (Cfx.re, NUI)
 - Training until the first real game is something I would play for the speed and the timing, not for the checklist
 
@@ -40,7 +40,7 @@ I ship small Godot projects in public under **akuvent** and put the public-facin
 |---|---|
 | **Training** | Closing small Godot games so movement, combat, and level flow stick |
 | **First game** | A game built around speed and timing, not a menu of systems |
-| **Feel** | Hitboxes, knockback, parry windows, heat, camera punch, SFX that fire on the event |
+| **Feel** | Combat juice, knockback, parry windows, heat, camera punch, SFX that fire on the event |
 
 ---
 
@@ -56,8 +56,8 @@ I ship small Godot projects in public under **akuvent** and put the public-facin
 
 | Project | Description | Stack / Focus |
 |---|---|---|
-| [**bullet-parry-game**](https://github.com/Akuvent/bullet-parry-game) | One bullet, parry, heat. When line of sight breaks the shot paths around walls on a shared AStar grid. | Godot 4 · GDScript · LOS · pathfinding |
-| [**platformer_fighter**](https://github.com/Akuvent/platformer_fighter) | Hit lab: light and heavy swings, one hit per swing, knockback, stocks, percent HUD, impact frames, camera shake. | Godot 4 · GDScript · hitboxes |
+| [**bullet-parry-game**](https://github.com/Akuvent/bullet-parry-game) | One bullet, parry, heat. Built around speed: read the shot, parry it, and turn the fight before it cools down. | Godot 4 · GDScript · speed · timing |
+| [**platformer_fighter**](https://github.com/Akuvent/platformer_fighter) | Hit lab for combat juice. Lights set up the meter, heavies have to feel huge: impact frames, camera shake, invert, SFX on the land. | Godot 4 · GDScript · combat juice |
 | [**platformer_training**](https://github.com/Akuvent/platformer_training) | Finished Mario-style archive. Player, enemies, coins, checkpoints, moving platforms, SFX. Scope closed on purpose. | Godot 4 · GDScript · 2D platformer |
 
 ---
@@ -94,11 +94,9 @@ I ship small Godot projects in public under **akuvent** and put the public-facin
 
 ## Working Style
 
-I debug in the running scene. Draw the AStar polyline, print the cell, then delete the print when the path is right. Same for combat: lock the hitbox to the active frames, then add shake, invert, and SFX on the actual event.
+I try my best to make my code clean until I panick and refactor it all 😭. If it works it works I guess!
 
-Bugs I chase are the ones that break feel. Stomps that tunnel on a fast fall. LOS on a node that already freed. A* cells outside the grid. A heavy that fires before the charge is full.
-
-Training projects get a stop line. `platformer_training` is archived on purpose so the next thing can be the speed and timing game, not another unfinished platformer.
+I do my best to make small scopes and respect them in order to beat perfectionnism!!!
 
 ---
 
