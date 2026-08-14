@@ -1,1 +1,111 @@
-<img src="https://raw.githubusercontent.com/Akuvent/Akuvent/main/assets/01_header.png" alt="akuvent — Devoting my youth to the eight gates of code." width="100%" align="top"><img src="https://raw.githubusercontent.com/Akuvent/Akuvent/main/assets/02_skills.png" alt="Skills: GDScript, Python, C#." width="100%" align="top"><a href="https://www.youtube.com/@CocazEtSeloz"><img src="https://raw.githubusercontent.com/Akuvent/Akuvent/main/assets/03a_youtube.png" alt="YouTube" width="282" align="top"></a><a href="https://discord.com/invite/ThCfqbr5Nw"><img src="https://raw.githubusercontent.com/Akuvent/Akuvent/main/assets/03b_discord.png" alt="Discord" width="282" align="top"></a><a href="https://steamcommunity.com/profiles/76561199229132682/"><img src="https://raw.githubusercontent.com/Akuvent/Akuvent/main/assets/03c_steam.png" alt="Steam" width="282" align="top"></a><a href="https://github.com/Akuvent/bullet-parry-game"><img src="https://raw.githubusercontent.com/Akuvent/Akuvent/main/assets/04_working.png" alt="bullet-parry-game" width="100%" align="top"></a><img src="https://raw.githubusercontent.com/Akuvent/Akuvent/main/assets/05_footer.png" width="100%" alt="thanks for stopping by — feel free to look around" align="top">
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:0D1117,50:C4A4A4,100:0D1117&text=akuvent&fontAlign=50&fontAlignY=35&fontColor=F2EBE4&fontSize=42&desc=Devoting%20my%20youth%20to%20the%20eight%20gates%20of%20code.&descAlign=50&descAlignY=58&animation=fadeIn" alt="akuvent banner" />
+
+# akuvent
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=C4A4A4&center=true&vCenter=true&width=760&lines=Godot+games+I+can+actually+play;Parry+%C2%B7+heat+%C2%B7+hitboxes+%C2%B7+knockback;Training+projects+I+finish+and+archive;First+real+game+is+about+speed+and+timing)](https://github.com/Akuvent)
+
+**Godot 2D games · Parry and timing · Hitbox labs · Training archives**
+
+[![YouTube](https://img.shields.io/badge/YouTube-Cliffwake-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Cliffwaketeam)
+[![Instagram](https://img.shields.io/badge/Instagram-cliffwake.team-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cliffwake.team/)
+[![Discord](https://img.shields.io/badge/Discord-Cliffwake-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/qyRTekjjUD)
+[![Newsletter](https://img.shields.io/badge/Newsletter-Buttondown-00A86B?style=for-the-badge&logo=maildotru&logoColor=white)](https://buttondown.com/cliffwake)
+[![Steam](https://img.shields.io/badge/Steam-Akuvent-1B2838?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199229132682/)
+[![GitHub](https://img.shields.io/badge/GitHub-Akuvent-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Akuvent)
+[![Email](https://img.shields.io/badge/Email-cliffwake.team%40gmail.com-C4A4A4?style=for-the-badge&logo=gmail&logoColor=black)](mailto:cliffwake.team@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=Akuvent&style=for-the-badge&color=C4A4A4&label=PROFILE+VIEWS)
+
+</div>
+
+---
+
+## About
+
+I make video games. I have been playing them since I was a kid and that is still the whole job I want.
+
+I ship small Godot projects in public under **akuvent** and put the public-facing stuff under **Cliffwake**. Right now that means 2D movement, combat feel, and systems I can test in-engine: parry, heat, hitboxes, knockback, checkpoints, stomps.
+
+- Based in France
+- Working mostly in GDScript on Godot 4, with Python, C#, HTML, and CSS when the project needs it
+- Next up: FiveM resource work (Cfx.re, NUI)
+- Training until the first real game is something I would play for the speed and the timing, not for the checklist
+
+---
+
+## Current Focus
+
+| Area | What I am building |
+|---|---|
+| **Training** | Closing small Godot games so movement, combat, and level flow stick |
+| **First game** | A game built around speed and timing, not a menu of systems |
+| **Feel** | Hitboxes, knockback, parry windows, heat, camera punch, SFX that fire on the event |
+
+---
+
+## Featured Projects
+
+<div align="center">
+
+[![bullet-parry-game](https://img.shields.io/badge/bullet--parry--game-Open_Repo-0D1117?style=for-the-badge&logo=github&logoColor=C4A4A4&labelColor=111827)](https://github.com/Akuvent/bullet-parry-game)
+[![platformer_fighter](https://img.shields.io/badge/platformer__fighter-Open_Repo-0D1117?style=for-the-badge&logo=github&logoColor=C4A4A4&labelColor=111827)](https://github.com/Akuvent/platformer_fighter)
+[![platformer_training](https://img.shields.io/badge/platformer__training-Open_Repo-0D1117?style=for-the-badge&logo=github&logoColor=C4A4A4&labelColor=111827)](https://github.com/Akuvent/platformer_training)
+
+</div>
+
+| Project | Description | Stack / Focus |
+|---|---|---|
+| [**bullet-parry-game**](https://github.com/Akuvent/bullet-parry-game) | One bullet, parry, heat. When line of sight breaks the shot paths around walls on a shared AStar grid. | Godot 4 · GDScript · LOS · pathfinding |
+| [**platformer_fighter**](https://github.com/Akuvent/platformer_fighter) | Hit lab: light and heavy swings, one hit per swing, knockback, stocks, percent HUD, impact frames, camera shake. | Godot 4 · GDScript · hitboxes |
+| [**platformer_training**](https://github.com/Akuvent/platformer_training) | Finished Mario-style archive. Player, enemies, coins, checkpoints, moving platforms, SFX. Scope closed on purpose. | Godot 4 · GDScript · 2D platformer |
+
+---
+
+## Tech Stack
+
+<div align="center">
+
+![GDScript](https://img.shields.io/badge/GDScript-0D1117?style=for-the-badge&logo=godotengine&logoColor=478CBF)
+![Godot](https://img.shields.io/badge/Godot_4-0D1117?style=for-the-badge&logo=godotengine&logoColor=478CBF)
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB)
+![C#](https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=csharp&logoColor=512BD4)
+![HTML](https://img.shields.io/badge/HTML-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS](https://img.shields.io/badge/CSS-0D1117?style=for-the-badge&logo=css&logoColor=663399)
+![FiveM](https://img.shields.io/badge/FiveM-0D1117?style=for-the-badge&logo=fivem&logoColor=F40552)
+![Cfx.re](https://img.shields.io/badge/Cfx.re-0D1117?style=for-the-badge&logo=lua&logoColor=C4A4A4)
+
+</div>
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+[![GitHub followers](https://img.shields.io/github/followers/Akuvent?style=for-the-badge&logo=github&color=C4A4A4&labelColor=111827)](https://github.com/Akuvent?tab=followers)
+[![GitHub profile](https://img.shields.io/badge/GitHub-Visit_Profile-0D1117?style=for-the-badge&logo=github&logoColor=C4A4A4&labelColor=111827)](https://github.com/Akuvent)
+
+![akuvent GitHub streak](https://streak-stats.demolab.com?user=Akuvent&theme=github-dark-blue&hide_border=true&ring=C4A4A4&fire=C4A4A4&currStreakLabel=C4A4A4&border_radius=12)
+
+</div>
+
+---
+
+## Working Style
+
+I debug in the running scene. Draw the AStar polyline, print the cell, then delete the print when the path is right. Same for combat: lock the hitbox to the active frames, then add shake, invert, and SFX on the actual event.
+
+Bugs I chase are the ones that break feel. Stomps that tunnel on a fast fall. LOS on a node that already freed. A* cells outside the grid. A heavy that fires before the charge is full.
+
+Training projects get a stop line. `platformer_training` is archived on purpose so the next thing can be the speed and timing game, not another unfinished platformer.
+
+---
+
+<div align="center">
+
+**YouTube:** [Cliffwaketeam](https://www.youtube.com/@Cliffwaketeam) · **Instagram:** [cliffwake.team](https://www.instagram.com/cliffwake.team/) · **Discord:** [invite](https://discord.gg/qyRTekjjUD) · **Steam:** [profile](https://steamcommunity.com/profiles/76561199229132682/) · **Mail:** [cliffwake.team@gmail.com](mailto:cliffwake.team@gmail.com)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:0D1117,50:C4A4A4,100:0D1117&section=footer" alt="footer" />
+
+</div>
