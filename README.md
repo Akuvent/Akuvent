@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:0D1117,50:C4A4A4,100:0D1117&text=akuvent&fontAlign=50&fontAlignY=35&fontColor=F2EBE4&fontSize=42&desc=Devoting%20my%20youth%20to%20the%20eight%20gates%20of%20code.&descAlign=50&descAlignY=58&animation=fadeIn" alt="akuvent banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:0D1117,50:F2EBE4,100:0D1117&text=akuvent&fontAlign=50&fontAlignY=35&fontColor=1A1C2C&fontSize=42&desc=Devoting%20my%20youth%20to%20the%20eight%20gates%20of%20code.&descAlign=50&descAlignY=58&animation=fadeIn" alt="akuvent banner" />
 
 # akuvent
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=C4A4A4&center=true&vCenter=true&width=760&lines=Godot+games+I+would+actually+play;Parry+%C2%B7+heat+%C2%B7+speed+%C2%B7+combat+juice;Kewl+training+projects+I+archive;First+real+game+soon!)](https://github.com/Akuvent)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=F2EBE4&center=true&vCenter=true&width=760&lines=Godot+games+I+would+actually+play;Freakin+grinding%21;Kewl+training+projects+I+archive;First+real+game+soon%21)](https://github.com/Akuvent)
 
 **Godot 2D games · Games made with passion · Combat juice · Training archives**
 
@@ -14,8 +14,8 @@
 [![Newsletter](https://img.shields.io/badge/Newsletter-Buttondown-00A86B?style=for-the-badge&logo=maildotru&logoColor=white)](https://buttondown.com/cliffwake)
 [![Steam](https://img.shields.io/badge/Steam-Akuvent-1B2838?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199229132682/)
 [![GitHub](https://img.shields.io/badge/GitHub-Akuvent-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Akuvent)
-[![Email](https://img.shields.io/badge/Email-cliffwake.team%40gmail.com-C4A4A4?style=for-the-badge&logo=gmail&logoColor=black)](mailto:cliffwake.team@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=Akuvent&style=for-the-badge&color=C4A4A4&label=PROFILE+VIEWS)
+[![Email](https://img.shields.io/badge/Email-cliffwake.team%40gmail.com-F2EBE4?style=for-the-badge&logo=gmail&logoColor=black)](mailto:cliffwake.team@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=Akuvent&style=for-the-badge&color=F2EBE4&label=PROFILE+VIEWS)
 
 </div>
 
@@ -48,9 +48,9 @@ I ship small Godot projects in public under **@akuvent** and put the public-faci
 
 <div align="center">
 
-[![bullet-parry-game](https://img.shields.io/badge/bullet--parry--game-Open_Repo-0D1117?style=for-the-badge&logo=github&logoColor=C4A4A4&labelColor=111827)](https://github.com/Akuvent/bullet-parry-game)
-[![platformer_fighter](https://img.shields.io/badge/platformer__fighter-Open_Repo-0D1117?style=for-the-badge&logo=github&logoColor=C4A4A4&labelColor=111827)](https://github.com/Akuvent/platformer_fighter)
-[![platformer_training](https://img.shields.io/badge/platformer__training-Open_Repo-0D1117?style=for-the-badge&logo=github&logoColor=C4A4A4&labelColor=111827)](https://github.com/Akuvent/platformer_training)
+[![bullet-parry-game](https://img.shields.io/badge/bullet--parry--game-Open_Repo-0D1117?style=for-the-badge&logo=github&logoColor=F2EBE4&labelColor=111827)](https://github.com/Akuvent/bullet-parry-game)
+[![platformer_fighter](https://img.shields.io/badge/platformer__fighter-Open_Repo-0D1117?style=for-the-badge&logo=github&logoColor=F2EBE4&labelColor=111827)](https://github.com/Akuvent/platformer_fighter)
+[![platformer_training](https://img.shields.io/badge/platformer__training-Open_Repo-0D1117?style=for-the-badge&logo=github&logoColor=F2EBE4&labelColor=111827)](https://github.com/Akuvent/platformer_training)
 
 </div>
 
@@ -73,7 +73,7 @@ I ship small Godot projects in public under **@akuvent** and put the public-faci
 ![HTML](https://img.shields.io/badge/HTML-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS](https://img.shields.io/badge/CSS-0D1117?style=for-the-badge&logo=css&logoColor=663399)
 ![FiveM](https://img.shields.io/badge/FiveM-0D1117?style=for-the-badge&logo=fivem&logoColor=F40552)
-![Cfx.re](https://img.shields.io/badge/Cfx.re-0D1117?style=for-the-badge&logo=lua&logoColor=C4A4A4)
+![Cfx.re](https://img.shields.io/badge/Cfx.re-0D1117?style=for-the-badge&logo=lua&logoColor=F2EBE4)
 
 </div>
 
@@ -83,10 +83,10 @@ I ship small Godot projects in public under **@akuvent** and put the public-faci
 
 <div align="center">
 
-[![GitHub followers](https://img.shields.io/github/followers/Akuvent?style=for-the-badge&logo=github&color=C4A4A4&labelColor=111827)](https://github.com/Akuvent?tab=followers)
-[![GitHub profile](https://img.shields.io/badge/GitHub-Visit_Profile-0D1117?style=for-the-badge&logo=github&logoColor=C4A4A4&labelColor=111827)](https://github.com/Akuvent)
+[![GitHub followers](https://img.shields.io/github/followers/Akuvent?style=for-the-badge&logo=github&color=F2EBE4&labelColor=111827)](https://github.com/Akuvent?tab=followers)
+[![GitHub profile](https://img.shields.io/badge/GitHub-Visit_Profile-0D1117?style=for-the-badge&logo=github&logoColor=F2EBE4&labelColor=111827)](https://github.com/Akuvent)
 
-![akuvent GitHub streak](https://streak-stats.demolab.com?user=Akuvent&theme=github-dark-blue&hide_border=true&ring=C4A4A4&fire=C4A4A4&currStreakLabel=C4A4A4&border_radius=12)
+![akuvent GitHub streak](https://streak-stats.demolab.com?user=Akuvent&theme=github-dark-blue&hide_border=true&ring=F2EBE4&fire=F2EBE4&currStreakLabel=F2EBE4&border_radius=12)
 
 </div>
 
@@ -104,6 +104,6 @@ I do my best to make small scopes and respect them in order to beat perfectionni
 
 **YouTube:** [Cliffwaketeam](https://www.youtube.com/@Cliffwaketeam) · **Instagram:** [cliffwake.team](https://www.instagram.com/cliffwake.team/) · **Discord:** [invite](https://discord.gg/qyRTekjjUD) · **Steam:** [profile](https://steamcommunity.com/profiles/76561199229132682/) · **Mail:** [cliffwake.team@gmail.com](mailto:cliffwake.team@gmail.com)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:0D1117,50:C4A4A4,100:0D1117&section=footer" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:0D1117,50:F2EBE4,100:0D1117&section=footer" alt="footer" />
 
 </div>
