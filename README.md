@@ -86,7 +86,7 @@ I ship small Godot projects in public under **@akuvent** and put the public-faci
 [![GitHub followers](https://img.shields.io/github/followers/Akuvent?style=for-the-badge&logo=github&color=F2EBE4&labelColor=111827)](https://github.com/Akuvent?tab=followers)
 [![GitHub profile](https://img.shields.io/badge/GitHub-Visit_Profile-0D1117?style=for-the-badge&logo=github&logoColor=F2EBE4&labelColor=111827)](https://github.com/Akuvent)
 
-![akuvent GitHub streak](https://streak-stats.demolab.com?user=Akuvent&theme=github-dark-blue&hide_border=true&ring=F2EBE4&fire=F2EBE4&currStreakLabel=F2EBE4&border_radius=12)
+<img src="assets/streak.svg" alt="akuvent GitHub streak" />
 
 </div>
 
