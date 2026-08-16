@@ -28,7 +28,7 @@ I make video games. I have been playing them since I was a kid and that is still
 I ship small Godot projects in public under **@akuvent** and put the public-facing stuff under **@Cliffwake**.
 
 - Based in France
-- Working mostly in GDScript on Godot 4, with Python, C#, HTML, and CSS when a project needs it
+- Public work is Godot 4 / GDScript. Python is the first language I learned in high school
 - Next up: FiveM resource work (Cfx.re, NUI)
 - Training until the first real game is something I would play for the speed and the timing, not just because I made it
 
@@ -41,6 +41,7 @@ I ship small Godot projects in public under **@akuvent** and put the public-faci
 | **Training** | Closing small Godot games so movement, combat, and level flow stick |
 | **First game** | A game built around speed and timing, not a pletora of systems |
 | **Feel** | Combat juice, knockback, parry windows, heat, camera punch, SFX that fires on hit |
+| **Side work** | FiveM / Cfx.re assets, next to games. Not public yet |
 
 ---
 
@@ -74,6 +75,8 @@ I ship small Godot projects in public under **@akuvent** and put the public-faci
 ![CSS](https://img.shields.io/badge/CSS-0D1117?style=for-the-badge&logo=css&logoColor=663399)
 ![FiveM](https://img.shields.io/badge/FiveM-0D1117?style=for-the-badge&logo=fivem&logoColor=F40552)
 ![Cfx.re](https://img.shields.io/badge/Cfx.re-0D1117?style=for-the-badge&logo=lua&logoColor=F2EBE4)
+
+**Daily:** Godot 4 · GDScript &nbsp;·&nbsp; **School / tools:** Python, C# &nbsp;·&nbsp; **Aiming at:** FiveM / Cfx.re
 
 </div>
 
