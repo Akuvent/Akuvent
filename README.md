@@ -48,7 +48,7 @@ I ship small Godot projects in public under **@akuvent** and put the public-faci
 
 <div align="center">
 
-[![bullet-parry-game](https://img.shields.io/badge/bullet--parry--game-Open_Repo-0D1117?style=for-the-badge&logo=github&logoColor=F2EBE4&labelColor=111827)](https://github.com/Akuvent/bullet-parry-game)
+[![Kinetum: Please Slow Down](https://img.shields.io/badge/Kinetum:_Please_Slow_Down-Open_Repo-0D1117?style=for-the-badge&logo=github&logoColor=F2EBE4&labelColor=111827)](https://github.com/Akuvent/kinetum-please-slow-down)
 [![platformer_fighter](https://img.shields.io/badge/platformer__fighter-Open_Repo-0D1117?style=for-the-badge&logo=github&logoColor=F2EBE4&labelColor=111827)](https://github.com/Akuvent/platformer_fighter)
 [![platformer_training](https://img.shields.io/badge/platformer__training-Open_Repo-0D1117?style=for-the-badge&logo=github&logoColor=F2EBE4&labelColor=111827)](https://github.com/Akuvent/platformer_training)
 
@@ -56,7 +56,7 @@ I ship small Godot projects in public under **@akuvent** and put the public-faci
 
 | Project | Description | Stack / Focus |
 |---|---|---|
-| [**bullet-parry-game**](https://github.com/Akuvent/bullet-parry-game) | One bullet, parry, heat. Built around speed: read the shot, parry it, and turn the fight before it cools down. | Godot 4 · GDScript · speed · timing |
+| [**Kinetum:-Please-Slow-Down**](https://github.com/Akuvent/kinetum-please-slow-down) | One bullet, parry, heat. Built around speed: read the shot, parry it, and turn the fight before it cools down. | Godot 4 · GDScript · speed · timing |
 | [**platformer_fighter**](https://github.com/Akuvent/platformer_fighter) | Hit lab for combat juice. Lights set up the meter, heavies have to feel huge: impact frames, camera shake, invert, SFX on the land. | Godot 4 · GDScript · combat juice |
 | [**platformer_training**](https://github.com/Akuvent/platformer_training) | Finished Mario-style archive. Player, enemies, coins, checkpoints, moving platforms, SFX. Scope closed on purpose. | Godot 4 · GDScript · 2D platformer |
 
