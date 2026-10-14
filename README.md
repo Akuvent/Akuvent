@@ -55,12 +55,11 @@ I ship small Godot projects in public under **@akuvent** and put the public-faci
 
 </div>
 
-| Project | Description | Stack / Focus |
+| Project | Description |
 |---|---|---|
-| [**Kinetum:_Please_Slow_Down**](https://github.com/Akuvent/kinetum-please-slow-down) | One bullet, parry, heat. Built around speed: read the shot, parry it, and turn the fight before it cools down. | Godot 4 · GDScript · speed · timing |
+| [**Kinetum:_Please_Slow_Down**](https://github.com/Akuvent/kinetum-please-slow-down) | One bullet, parry, heat. Built around speed: read the shot, parry it, and turn the fight before it cools down. |
 | [**Solace**](https://github.com/ozzz35/ComfyJamGame) | A cozy game about blowing leaves away from gardens made for the comfy game jam 2026! |
-| [**platformer_training**](https://github.com/Akuvent/platformer_training) | Finished Mario-style archive. Player, enemies, coins, checkpoints, moving platforms, SFX. Scope closed on purpose. | Godot 4 · GDScript · 2D platformer |
-
+| [**platformer_training**](https://github.com/Akuvent/platformer_training) | Finished Mario-style archive. Player, enemies, coins, checkpoints, moving platforms, SFX. Scope closed on purpose. |
 ---
 
 ## Tech Stack
