@@ -49,8 +49,8 @@ I ship small Godot projects in public under **@akuvent** and put the public-faci
 
 <div align="center">
 
+[![Solace](https://img.shields.io/badge/Solace-Open_Repo-0D1117?style=for-the-badge&logo=github&logoColor=F2EBE4&labelColor=111827)](https://github.com/ozzz35/ComfyJamGame)
 [![Kinetum: Please Slow Down](https://img.shields.io/badge/Kinetum:_Please_Slow_Down-Open_Repo-0D1117?style=for-the-badge&logo=github&logoColor=F2EBE4&labelColor=111827)](https://github.com/Akuvent/kinetum-please-slow-down)
-[![platformer_fighter](https://img.shields.io/badge/platformer__fighter-Open_Repo-0D1117?style=for-the-badge&logo=github&logoColor=F2EBE4&labelColor=111827)](https://github.com/Akuvent/platformer_fighter)
 [![platformer_training](https://img.shields.io/badge/platformer__training-Open_Repo-0D1117?style=for-the-badge&logo=github&logoColor=F2EBE4&labelColor=111827)](https://github.com/Akuvent/platformer_training)
 
 </div>
@@ -58,7 +58,7 @@ I ship small Godot projects in public under **@akuvent** and put the public-faci
 | Project | Description | Stack / Focus |
 |---|---|---|
 | [**Kinetum:_Please_Slow_Down**](https://github.com/Akuvent/kinetum-please-slow-down) | One bullet, parry, heat. Built around speed: read the shot, parry it, and turn the fight before it cools down. | Godot 4 · GDScript · speed · timing |
-| [**platformer_fighter**](https://github.com/Akuvent/platformer_fighter) | Hit lab for combat juice. Lights set up the meter, heavies have to feel huge: impact frames, camera shake, invert, SFX on the land. | Godot 4 · GDScript · combat juice |
+| [**Solace**](https://github.com/ozzz35/ComfyJamGame) | A cozy game about blowing leaves away from gardens made for the comfy game jam 2026! |
 | [**platformer_training**](https://github.com/Akuvent/platformer_training) | Finished Mario-style archive. Player, enemies, coins, checkpoints, moving platforms, SFX. Scope closed on purpose. | Godot 4 · GDScript · 2D platformer |
 
 ---
