@@ -51,17 +51,13 @@ I ship small Godot projects in public under **@akuvent** and put the public-faci
 <h3><a href="https://akuvent.itch.io/solace">Solace</a> · Comfy Jam Autumn 2026</h3>
 
 <a href="https://akuvent.itch.io/solace">
-  <img src="https://raw.githubusercontent.com/ozzz35/ComfyJamGame/main/assets/art/ui/solace_title.png" alt="Solace — play in browser on itch.io" width="520" />
+  <img src="https://img.itch.zone/aW1nLzMwOTgzMzA5LnBuZw==/original/xAZiUu.png" alt="Solace on itch.io" width="520" />
 </a>
 
 <br /><br />
 
-<a href="https://akuvent.itch.io/solace">
-  <img src="https://img.shields.io/badge/Play_in_browser-itch.io-D4845A?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Play Solace on itch.io" />
-</a>
-<a href="https://github.com/ozzz35/ComfyJamGame">
-  <img src="https://img.shields.io/badge/Source-GitHub-0D1117?style=for-the-badge&logo=github&logoColor=F2EBE4&labelColor=111827" alt="Source code" />
-</a>
+[![Play on itch.io](https://img.shields.io/badge/Play_on-itch.io-D4845A?style=for-the-badge&logo=itchdotio&logoColor=white)](https://akuvent.itch.io/solace)
+[![Source](https://img.shields.io/badge/Source-GitHub-0D1117?style=for-the-badge&logo=github&logoColor=F2EBE4&labelColor=111827)](https://github.com/ozzz35/ComfyJamGame)
 
 <br /><br />
 
