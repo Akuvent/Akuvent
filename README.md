@@ -46,6 +46,26 @@ I ship small Godot projects in public under **@akuvent** and put the public-faci
 ---
 
 ## Featured Projects
+<div align="center">
+
+<h3><a href="https://akuvent.itch.io/solace">Solace</a> · Comfy Jam Autumn 2026</h3>
+
+<a href="https://akuvent.itch.io/solace">
+  <img src="https://raw.githubusercontent.com/ozzz35/ComfyJamGame/main/assets/art/ui/solace_title.png" alt="Solace — play in browser on itch.io" width="520" />
+</a>
+
+<br /><br />
+
+<a href="https://akuvent.itch.io/solace">
+  <img src="https://img.shields.io/badge/Play_in_browser-itch.io-D4845A?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Play Solace on itch.io" />
+</a>
+<a href="https://github.com/ozzz35/ComfyJamGame">
+  <img src="https://img.shields.io/badge/Source-GitHub-0D1117?style=for-the-badge&logo=github&logoColor=F2EBE4&labelColor=111827" alt="Source code" />
+</a>
+
+<br /><br />
+
+</div>
 
 <div align="center">
 
